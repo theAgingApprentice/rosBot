@@ -2,7 +2,7 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Doxygen Action](https://github.com/theAgingApprentice/aaChip/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/theAgingApprentice/aaChip/actions/workflows/main.yml)
 
-# icUnderware - Robot projects start here!
+# rosBot - MicroROS Robot projects start here!
 
 ## Table of contents
 * [Overview](#Overview)
@@ -16,7 +16,7 @@
 * [Acknowledgements](#Acknowledgements)
 
 ## Overview
-This repository contains Arduino code that will get you off to a flying start 
+This repository contains MicroROS code that will get you off to a flying start 
 when you begin your next robot project. Simply clone this template repository 
 and use the source code to boot strap the development of your robot's 
 integrated circuit firmware. 
