@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['jointwoconstchar_0',['joinTwoConstChar',['../classaa_format.html#a9bd278c97225bff5cc5cbd77e27eb8ca',1,'aaFormat']]]
+  ['iptobytearray_0',['ipToByteArray',['../classaa_format.html#a464b03d67714abf7ec5cd13f47a65811',1,'aaFormat']]],
+  ['iptostring_1',['ipToString',['../classaa_format.html#ace63e200e90fe1858650882e35ee7a8b',1,'aaFormat']]]
 ];
